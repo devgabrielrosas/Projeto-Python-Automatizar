@@ -1,11 +1,12 @@
 # Projeto Python Automatizar
- Projeto de automação em Python baseado na proposta do evento Jornada Python da Hashtag Programação.
  
  Sobre: O intuito do programa é automatizar o cadastro de uma tabela (csv) de produtos em um formulário (criado para o próprio evento) de uma empresa hipotética, buscando mais eficiência na realização da tarefa. 
 
  Em "cadastro_produtos.py" está o código do projeto; "achar_posicao.py" é um código auxiliar para complementar funçôes do código principal; e em "produtos.csv" se encontra a tabela de produtos a serem cadastrados. 
 
  OBS: O código foi projetado para um computador em específico, tendo em vista que seria utilizado na prática convencional de uma empresa ou trablho. Então, em caso de teste, serão necessárias algumas modificações. 
+
+ Projeto de automação em Python baseado na proposta do evento Jornada Python da Hashtag Programação.
 
  In english: 
  Automation project in Python based on the proposal for the Jornada Python event by Hashtag Programação. 
